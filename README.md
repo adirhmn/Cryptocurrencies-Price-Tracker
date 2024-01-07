@@ -1,7 +1,7 @@
 # How to Running Cryptocurrencies Price Tracker Api
 
-Documentation [Here](https://github.com/adirhmn/cryptocurrencies-price-tracker/tree/main/documentation)
-Postman Collection [Here](https://github.com/adirhmn/cryptocurrencies-price-tracker/blob/main/Crypto%20Price%20Tracker%20Api.postman_collection.json)
+- Documentation [Here](https://github.com/adirhmn/cryptocurrencies-price-tracker/tree/main/documentation)
+- Postman Collection [Here](https://github.com/adirhmn/cryptocurrencies-price-tracker/blob/main/Crypto%20Price%20Tracker%20Api.postman_collection.json)
 
 ## Prerequisites
 
