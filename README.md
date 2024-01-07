@@ -1,6 +1,6 @@
 # Cryptocurrencies Price Tracker Api
 Cryptocurrencies Price Tracker is a rest api application for storing coin price data. Coin prices are obtained from https://api.coincap.io/v2/assets.
-- You can access this api using [https://cryptopricetracker.fly.dev]((https://github.com/adirhmn/cryptocurrencies-price-tracker/tree/main/documentation) and you can check health app by access [https://cryptopricetracker.fly.dev/health](https://cryptopricetracker.fly.dev/health)
+- You can access this api using [https://cryptopricetracker.fly.dev](https://github.com/adirhmn/cryptocurrencies-price-tracker/tree/main/documentation) and you can check health app by access [https://cryptopricetracker.fly.dev/health](https://cryptopricetracker.fly.dev/health)
 - Documentation [Here](https://github.com/adirhmn/cryptocurrencies-price-tracker/tree/main/documentation)
 - Postman Collection [Here](https://github.com/adirhmn/cryptocurrencies-price-tracker/blob/main/Crypto%20Price%20Tracker%20Api.postman_collection.json)
 
