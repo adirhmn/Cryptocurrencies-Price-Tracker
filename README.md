@@ -1,8 +1,10 @@
-# How to Running Cryptocurrencies Price Tracker Api
+# Cryptocurrencies Price Tracker Api
+Cryptocurrencies Price Tracker is a rest api application for storing coin price data. Coin prices are obtained from https://api.coincap.io/v2/assets.
+- You can access this api using [https://cryptopricetracker.fly.dev](https://github.com/adirhmn/cryptocurrencies-price-tracker/tree/main/documentation) and you can check health app by access [https://cryptopricetracker.fly.dev/health](https://cryptopricetracker.fly.dev/health)
+- Documentation [Here](https://github.com/adirhmn/cryptocurrencies-price-tracker/tree/main/documentation)
+- Postman Collection [Here](https://github.com/adirhmn/cryptocurrencies-price-tracker/blob/main/Crypto%20Price%20Tracker%20Api.postman_collection.json)
 
-Documentation [Here](https://github.com/adirhmn/cryptocurrencies-price-tracker/tree/main/documentation)
-Postman Collection [Here](https://github.com/adirhmn/cryptocurrencies-price-tracker/blob/main/Crypto%20Price%20Tracker%20Api.postman_collection.json)
-
+# How to Running Project
 ## Prerequisites
 
 Before you begin, make sure you have Git installed on your computer. If not, you can download and install it from the [official Git website](https://git-scm.com/).
@@ -94,6 +96,7 @@ This app has 6 endpoint
 3. **Enter URL**
 
    - In the URL bar, input `http://localhost:8000/signup/`.
+   - You can change to production app url `https://cryptopricetracker.fly.dev/signup/`
 
 4. **Set Request Body**
 
@@ -137,6 +140,7 @@ This app has 6 endpoint
 3. **Enter URL**
 
    - In the URL bar, input `http://localhost:8000/signin/`.
+   - You can change to production app url `https://cryptopricetracker.fly.dev/signin/`
 
 4. **Set Request Body**
 
@@ -176,6 +180,7 @@ This app has 6 endpoint
 2. **Enter URL**
 
    - In the URL bar, input `http://localhost:8000/signout/`.
+   - You can change to production app url `https://cryptopricetracker.fly.dev/signout/`
 
 3. **Set Authorization Header**
 
@@ -241,6 +246,7 @@ This app has 6 endpoint
 2. **Enter URL**
 
    - In the URL bar, input `http://localhost:8000/tracker/`.
+   - - You can change to production app url `https://cryptopricetracker.fly.dev/tracker/`.
 
 3. **Set Authorization Header**
 
@@ -277,6 +283,7 @@ This app has 6 endpoint
    - In the URL bar, input `http://localhost:8000/tracker/{COIN_ID}`.
    - Replace `COIN_ID` with id coin name from your tracker.
    - For example `http://localhost:8000/tracker/bitcoin`.
+   - - You can change to production app url `https://cryptopricetracker.fly.dev/tracker/bitcoin`
 
 3. **Set Authorization Header**
 
